@@ -1,0 +1,14 @@
+INSERT INTO `cart` VALUES (115, 16, 1, 'Product #4', '[15% off]', 2000, 'static/images/m5.png', NULL);
+INSERT INTO `cart` VALUES (113, 1, 1, 'Product #1', '[15% off]', 1000, 'static/images/m1.png', NULL);
+INSERT INTO `cart` VALUES (110, 16, 1, 'Product #4', '[15% off]', 2000, 'static/images/m5.png', NULL);
+INSERT INTO `cart` VALUES (109, 5, 1, 'Product #2', '[15% off]', 2000, 'static/images/m2.png', NULL);
+INSERT INTO `cart` VALUES (108, 1, 1, 'Product #1', '[15% off]', 1000, 'static/images/m1.png', NULL);
+INSERT INTO `cart` VALUES (114, 1, 1, 'Product #1', '[15% off]', 1000, 'static/images/m1.png', NULL);
+INSERT INTO `cart` VALUES (123, 24, 1, 'Product #6', '[15% off]', 2000, 'static/images/m7.png', NULL);
+INSERT INTO `cart` VALUES (122, 31, 1, 'Product #7', '[15% off]', 2000, 'static/images/m9.png', NULL);
+INSERT INTO `cart` VALUES (121, 16, 1, 'Product #4', '[15% off]', 2000, 'static/images/m5.png', NULL);
+INSERT INTO `cart` VALUES (120, 1, 1, 'Product #1', '[15% off]', 1000, 'static/images/m1.png', NULL);
+INSERT INTO `cart` VALUES (128, 12, 1, 'Product #3', '[15% off]', 2000, 'static/images/m4.png', NULL);
+INSERT INTO `cart` VALUES (129, 16, 1, 'Product #4', '[15% off]', 2000, 'static/images/m5.png', NULL);
+INSERT INTO `cart` VALUES (127, 34, 1, 'Product #8', '[15% off]', 2000, 'static/images/m9.png', NULL);
+INSERT INTO `cart` VALUES (135, 16, 1, 'Product #4', '[15% off]', 2000, 'static/images/m5.png', 1);

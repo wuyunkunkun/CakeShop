@@ -1,0 +1,1 @@
+INSERT INTO `login` VALUES (1, '2017-12-17 22:42:10', 1);
